@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.venv/
+data/leads.db
